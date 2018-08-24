@@ -1,6 +1,6 @@
 {
-  "name": "cross-var",
-  "version": "1.1.0",
+  "name": "@firestitch/npm-cross-var",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "bin": {
