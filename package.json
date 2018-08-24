@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "cross-var": "./index.js"
+    "npm-cross-var": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
